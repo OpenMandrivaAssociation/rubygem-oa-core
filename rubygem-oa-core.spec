@@ -6,7 +6,7 @@ Release:    2
 Summary:    HTTP Basic strategies for OmniAuth
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/intridea/omniauth
+URL:        https://github.com/intridea/omniauth
 Source0:    %{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
